@@ -14,8 +14,8 @@ The objective is to transform raw data into meaningful business insights that ca
 
 * **Source:** Kaggle / Public Dataset
 * **Format:** CSV
-* **Records:** *(Update with your dataset size)*
-* **Features:** *(Update with the number of columns)*
+* **Records:** 3,900*
+* **Features:** 18*
 
 The dataset contains information that was analyzed to identify patterns, trends, customer behavior, and key business metrics.
 
